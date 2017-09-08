@@ -1,0 +1,3 @@
+hello my name is Jake.
+i am in cosc 2030.
+i like this class.
